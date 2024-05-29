@@ -1,0 +1,24 @@
+{
+     "data": [
+          {
+               "email": "assessprep",
+               "password": "jaipur@123"
+          },
+          {
+               "email": "admin",
+               "password": "admin@123"
+          },
+          {
+               "email": "nitin078",
+               "password": "nitin@123"
+          },
+          {
+               "email": "sonu",
+               "password": "sonu@123"
+          },{
+               "email": "tejpal",
+               "password": "tejapl@123"
+          }
+
+     ]
+}
