@@ -1,24 +1,133 @@
 {
      "data": [
-          {
-               "email": "assessprep",
-               "password": "jaipur@123"
-          },
-          {
-               "email": "admin",
-               "password": "admin@123"
-          },
-          {
-               "email": "nitin078",
-               "password": "nitin@123"
-          },
-          {
-               "email": "sonu",
-               "password": "sonu@123"
-          },{
-               "email": "tejpal",
-               "password": "tejapl@123"
-          }
+                {
+                    "name": "Admin",
+                   "email": "admin",
+                   "password": "admin123",
+                   "position": "Software developer"
+
+                },
+               {
+                   "name": "Nitin Sharma",
+                   "email": "nitin@123.com",
+                   "password": "nitin@123",
+                   "position": "Software developer"
+               },
+               {
+                   "name": "Anita Singh",
+                   "email": "anita@456.com",
+                   "password": "anita@456",
+                   "position": "Project manager"
+               },
+               {
+                   "name": "Rahul Mehta",
+                   "email": "rahul@789.com",
+                   "password": "rahul@789",
+                   "position": "Data analyst"
+               },
+               {
+                   "name": "Priya Kapoor",
+                   "email": "priya@101.com",
+                   "password": "priya@101",
+                   "position": "UI/UX designer"
+               },
+               {
+                   "name": "Amit Gupta",
+                   "email": "amit@112.com",
+                   "password": "amit@112",
+                   "position": "Software engineer"
+               },
+               {
+                   "name": "Sunita Rao",
+                   "email": "sunita@131.com",
+                   "password": "sunita@131",
+                   "position": "Product manager"
+               },
+               {
+                   "name": "Vikram Joshi",
+                   "email": "vikram@415.com",
+                   "password": "vikram@415",
+                   "position": "DevOps engineer"
+               },
+               {
+                   "name": "Rina Das",
+                   "email": "rina@161.com",
+                   "password": "rina@161",
+                   "position": "Quality assurance"
+               },
+               {
+                   "name": "Manoj Patil",
+                   "email": "manoj@718.com",
+                   "password": "manoj@718",
+                   "position": "Database administrator"
+               },
+               {
+                   "name": "Kiran Agarwal",
+                   "email": "kiran@192.com",
+                   "password": "kiran@192",
+                   "position": "Network engineer"
+               },
+               {
+                   "name": "Suresh Kumar",
+                   "email": "suresh@213.com",
+                   "password": "suresh@213",
+                   "position": "System analyst"
+               },
+               {
+                   "name": "Sneha Verma",
+                   "email": "sneha@235.com",
+                   "password": "sneha@235",
+                   "position": "Technical writer"
+               },
+               {
+                   "name": "Rajesh Nair",
+                   "email": "rajesh@254.com",
+                   "password": "rajesh@254",
+                   "position": "Business analyst"
+               },
+               {
+                   "name": "Ayesha Khan",
+                   "email": "ayesha@273.com",
+                   "password": "ayesha@273",
+                   "position": "Frontend developer"
+               },
+               {
+                   "name": "Rohit Sharma",
+                   "email": "rohit@289.com",
+                   "password": "rohit@289",
+                   "position": "Backend developer"
+               },
+               {
+                   "name": "Meera Jain",
+                   "email": "meera@302.com",
+                   "password": "meera@302",
+                   "position": "Scrum master"
+               },
+               {
+                   "name": "Deepak Singh",
+                   "email": "deepak@325.com",
+                   "password": "deepak@325",
+                   "position": "Cloud architect"
+               },
+               {
+                   "name": "Swati Mishra",
+                   "email": "swati@348.com",
+                   "password": "swati@348",
+                   "position": "Security analyst"
+               },
+               {
+                   "name": "Gaurav Desai",
+                   "email": "gaurav@364.com",
+                   "password": "gaurav@364",
+                   "position": "IT support specialist"
+               },
+               {
+                   "name": "Neha Patil",
+                   "email": "neha@387.com",
+                   "password": "neha@387",
+                   "position": "AI/ML engineer"
+               }
+
 
      ]
 }
